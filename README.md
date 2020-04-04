@@ -1,25 +1,3 @@
-### LICENSE
-
-Copyright 2015 - 2017 Fynn
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-## 简介
-终于开源了！
-
-该项目是一款类似目前火爆的一元夺宝类项目，现在把它拿出来与大家分享。在零零散散的时间里将其开发完成，其中不免有些仓促，也会因为有些后端云的功能限制，一些功能可能实现地不那么尽善尽美，望大家体谅，有什么不足还望积极指正。
-
-整个项目的需求、视觉设计、图标设计、编码、发布均由本人独立完成，未经许可不得用于商业用途，违者必究！
 
 ## 项目结构
 > * AppU  - 包含一系列项目中用到的工具类、框架类；
